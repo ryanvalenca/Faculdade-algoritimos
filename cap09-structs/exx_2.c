@@ -26,7 +26,7 @@ int cadastro(int qtd, struct alunos alunos[20], struct alunos aux){
         while(getchar() != '\n');
 
         qtd++;
-        printf("Cliente cadastrado com sucesso!\n");
+        printf("Aluno cadastrado com sucesso!\n");
 
         
         if (qtd == 20)
@@ -132,7 +132,7 @@ return;
 }
 
 
-printf("\n=== TODOS OS REGISRTROS CADASTRADOS ===\n");
+printf("\n=== TODOS OS REGISTROS CADASTRADOS ===\n");
 for (int i = 0; i < qtd; i++)
 {
 float soma = 0;
