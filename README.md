@@ -6,7 +6,7 @@ Repositório com exercícios resolvidos do livro *"Algoritmos - Lógica para Des
 
 - **Cap. 1**: Conceitos de lógica de programação e algoritmos
 - **Cap. 2**: Tipos de dados, variáveis e constantes
-- **Cap. 3**: Operadores aritméticos, relacionais e lógicos
+- **Cap. 3**: Programa com sequência - estrutura sequencial e operações de entrada/saída 
 - **Cap. 4**: Estrutura sequencial e operações de entrada/saída
 - **Cap. 5**: Estrutura condicional simples `if`
 - **Cap. 6**: Estrutura condicional composta `if...else`
